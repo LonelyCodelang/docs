@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-03T15:40:51.110Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="XZ9scagC8SQ-tI7NdMtO" version="21.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-04T02:42:20.753Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="oi7JVh451lKMxsSE1qIF" version="21.7.1" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
-    <mxGraphModel dx="878" dy="480" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -38,7 +38,7 @@
             <mxPoint x="39" y="334" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="-46" y="349" />
-              <mxPoint x="-46" y="409" />
+              <mxPoint x="-46" y="380" />
             </Array>
             <mxPoint x="39" y="409" as="targetPoint" />
           </mxGeometry>
@@ -55,17 +55,6 @@
         <mxCell id="BiDLs_91Af1u3nNMaBhe-41" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="BiDLs_91Af1u3nNMaBhe-33">
           <mxGeometry x="45" y="189" width="10" height="781" as="geometry" />
         </mxCell>
-        <mxCell id="BiDLs_91Af1u3nNMaBhe-69" value="根据文件大小&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;来分单个文件&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;上传和切片上&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;传" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="BiDLs_91Af1u3nNMaBhe-33">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="55" y="555" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="100" y="555" />
-              <mxPoint x="100" y="585" />
-            </Array>
-            <mxPoint x="55" y="585" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="BiDLs_91Af1u3nNMaBhe-95" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="BiDLs_91Af1u3nNMaBhe-33">
           <mxGeometry x="45" y="1119" width="10" height="201" as="geometry" />
         </mxCell>
@@ -73,7 +62,7 @@
           <mxGeometry x="600" y="40" width="100" height="1359" as="geometry" />
         </mxCell>
         <mxCell id="BiDLs_91Af1u3nNMaBhe-73" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="BiDLs_91Af1u3nNMaBhe-34">
-          <mxGeometry x="45" y="551" width="10" height="419" as="geometry" />
+          <mxGeometry x="45" y="520" width="10" height="450" as="geometry" />
         </mxCell>
         <mxCell id="BiDLs_91Af1u3nNMaBhe-97" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="BiDLs_91Af1u3nNMaBhe-34">
           <mxGeometry x="45" y="1119" width="10" height="201" as="geometry" />
@@ -82,7 +71,7 @@
           <mxGeometry x="780" y="40" width="100" height="1359" as="geometry" />
         </mxCell>
         <mxCell id="BiDLs_91Af1u3nNMaBhe-76" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="BiDLs_91Af1u3nNMaBhe-35">
-          <mxGeometry x="45" y="419" width="10" height="80" as="geometry" />
+          <mxGeometry x="45" y="384" width="10" height="56" as="geometry" />
         </mxCell>
         <mxCell id="BiDLs_91Af1u3nNMaBhe-38" value="创建备份任务" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" edge="1" parent="1" target="BiDLs_91Af1u3nNMaBhe-37">
           <mxGeometry x="0.0053" width="80" relative="1" as="geometry">
@@ -98,7 +87,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BiDLs_91Af1u3nNMaBhe-46" value="获取需要备份的文件" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;exitX=0;exitY=0;exitDx=0;exitDy=5;exitPerimeter=0;" edge="1" parent="1" source="BiDLs_91Af1u3nNMaBhe-41" target="BiDLs_91Af1u3nNMaBhe-42">
+        <mxCell id="BiDLs_91Af1u3nNMaBhe-46" value="分页获取需要备份的文件" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;exitX=0;exitY=0;exitDx=0;exitDy=5;exitPerimeter=0;" edge="1" parent="1" source="BiDLs_91Af1u3nNMaBhe-41" target="BiDLs_91Af1u3nNMaBhe-42">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="360" y="249" as="sourcePoint" />
             <mxPoint x="440" y="249" as="targetPoint" />
@@ -110,7 +99,7 @@
             <mxPoint x="455" y="318.26199999999994" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BiDLs_91Af1u3nNMaBhe-57" value="根据文件MD5判断&lt;br&gt;文件是否已经上传" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="BiDLs_91Af1u3nNMaBhe-57" value="计算文件Md5、&lt;br&gt;大小来获取&lt;br&gt;文件上传地址" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="455" y="378.5" as="sourcePoint" />
             <mxPoint x="295" y="378.5" as="targetPoint" />
@@ -118,88 +107,71 @@
         </mxCell>
         <mxCell id="BiDLs_91Af1u3nNMaBhe-64" value="返回文件上传信息" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;dashed=1;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="295" y="472.5" as="sourcePoint" />
-            <mxPoint x="455" y="472.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BiDLs_91Af1u3nNMaBhe-71" value="申请文件上传地址" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="455" y="654.5" as="sourcePoint" />
-            <mxPoint x="295" y="654.5" as="targetPoint" />
+            <mxPoint x="295" y="656" as="sourcePoint" />
+            <mxPoint x="455" y="656" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BiDLs_91Af1u3nNMaBhe-72" value="获取文件上传地址" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="295" y="691" as="sourcePoint" />
-            <mxPoint x="645" y="691" as="targetPoint" />
+            <mxPoint x="295" y="584" as="sourcePoint" />
+            <mxPoint x="645" y="584" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BiDLs_91Af1u3nNMaBhe-74" value="返回文件上传地址" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="645" y="733.5" as="sourcePoint" />
-            <mxPoint x="295" y="733.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BiDLs_91Af1u3nNMaBhe-75" value="返回文件上传地址" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="295" y="779.5" as="sourcePoint" />
-            <mxPoint x="455" y="779.5" as="targetPoint" />
-            <mxPoint as="offset" />
+            <mxPoint x="645" y="613.5" as="sourcePoint" />
+            <mxPoint x="295" y="613.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BiDLs_91Af1u3nNMaBhe-77" value="验证文件是否涉密" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="465" y="490" as="sourcePoint" />
-            <mxPoint x="825" y="490" as="targetPoint" />
+            <mxPoint x="295" y="435" as="sourcePoint" />
+            <mxPoint x="825" y="435" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BiDLs_91Af1u3nNMaBhe-78" value="文件涉密信息" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="BiDLs_91Af1u3nNMaBhe-78" value="文件涉密信息" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" target="BiDLs_91Af1u3nNMaBhe-42">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="825" y="522" as="sourcePoint" />
-            <mxPoint x="465" y="522" as="targetPoint" />
+            <mxPoint x="825" y="472" as="sourcePoint" />
+            <mxPoint x="465" y="472" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BiDLs_91Af1u3nNMaBhe-80" value="文件涉密则直接中断上传" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="BiDLs_91Af1u3nNMaBhe-82" value="文件上传" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="455" y="548.5" as="sourcePoint" />
-            <mxPoint x="295" y="548.5" as="targetPoint" />
+            <mxPoint x="470" y="757" as="sourcePoint" />
+            <mxPoint x="645" y="757" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BiDLs_91Af1u3nNMaBhe-82" value="文件上传" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="BiDLs_91Af1u3nNMaBhe-73">
+        <mxCell id="BiDLs_91Af1u3nNMaBhe-84" value="更新文件上传信息" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="470" y="799" as="sourcePoint" />
-            <mxPoint x="550" y="799" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BiDLs_91Af1u3nNMaBhe-84" value="更新文件信息" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="455" y="841.5" as="sourcePoint" />
-            <mxPoint x="295" y="841.5" as="targetPoint" />
+            <mxPoint x="455" y="814.5" as="sourcePoint" />
+            <mxPoint x="295" y="814.5" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BiDLs_91Af1u3nNMaBhe-86" value="大文件的文件合并请求" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="295" y="887" as="sourcePoint" />
-            <mxPoint x="645" y="887" as="targetPoint" />
+            <mxPoint x="296" y="909" as="sourcePoint" />
+            <mxPoint x="646" y="909" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BiDLs_91Af1u3nNMaBhe-87" value="文件上传结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="645" y="825.5" as="sourcePoint" />
-            <mxPoint x="465" y="825.5" as="targetPoint" />
+            <mxPoint x="645" y="794.5" as="sourcePoint" />
+            <mxPoint x="465" y="794.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BiDLs_91Af1u3nNMaBhe-89" value="文件合并结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="645" y="913.5" as="sourcePoint" />
-            <mxPoint x="295" y="913.5" as="targetPoint" />
+            <mxPoint x="645" y="944.5" as="sourcePoint" />
+            <mxPoint x="295" y="944.5" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BiDLs_91Af1u3nNMaBhe-90" value="返回文件信息更新结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="295" y="956.5" as="sourcePoint" />
-            <mxPoint x="455" y="956.5" as="targetPoint" />
+            <mxPoint x="295" y="989.5" as="sourcePoint" />
+            <mxPoint x="455" y="989.5" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -216,10 +188,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BiDLs_91Af1u3nNMaBhe-98" value="获取还原文件列表" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=5;exitPerimeter=0;entryX=1;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" edge="1" parent="1" source="BiDLs_91Af1u3nNMaBhe-95" target="BiDLs_91Af1u3nNMaBhe-96">
+        <mxCell id="BiDLs_91Af1u3nNMaBhe-98" value="分页获取还原文件列表" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=5;exitPerimeter=0;entryX=1;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" edge="1" parent="1" source="BiDLs_91Af1u3nNMaBhe-95" target="BiDLs_91Af1u3nNMaBhe-96">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="340" y="1199" as="sourcePoint" />
             <mxPoint x="420" y="1199" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BiDLs_91Af1u3nNMaBhe-99" value="需要还原的文件" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" target="BiDLs_91Af1u3nNMaBhe-95">
@@ -252,6 +225,39 @@
           <mxGeometry x="-0.0061" relative="1" as="geometry">
             <mxPoint x="295" y="1336.444" as="sourcePoint" />
             <mxPoint x="458" y="1336.444" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BiDLs_91Af1u3nNMaBhe-104" value="根据文件大小&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;来分单个文件&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;上传和切片上&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;传" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1" target="BiDLs_91Af1u3nNMaBhe-42">
+          <mxGeometry x="0.0047" relative="1" as="geometry">
+            <mxPoint x="284" y="492" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="193" y="492" />
+              <mxPoint x="193" y="560" />
+            </Array>
+            <mxPoint x="284" y="523" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BiDLs_91Af1u3nNMaBhe-105" value="大文件则采用切&lt;br&gt;片上传模式" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.0047" relative="1" as="geometry">
+            <mxPoint x="455" y="673" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="364" y="673" />
+              <mxPoint x="364" y="741" />
+            </Array>
+            <mxPoint x="456" y="741" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BiDLs_91Af1u3nNMaBhe-106" value="如果是大文件&lt;br&gt;则需要进行文件&lt;br&gt;合并" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.0047" relative="1" as="geometry">
+            <mxPoint x="282" y="830" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="191" y="830" />
+              <mxPoint x="191" y="898" />
+            </Array>
+            <mxPoint x="283" y="898" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>

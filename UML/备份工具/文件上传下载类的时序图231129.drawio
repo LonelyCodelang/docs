@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-30T12:52:21.416Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="2bHaJ4dofF1rbayyyT_q" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-01T07:26:44.342Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="_B4Cr63Y7iZsImnzpgv6" version="22.1.4" type="github">
   <diagram name="Page-1" id="9361dd3d-8414-5efd-6122-117bd74ce7a7">
     <mxGraphModel dx="1834" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -82,7 +82,7 @@
           <mxGeometry x="45" y="1100" width="10" height="470" as="geometry" />
         </mxCell>
         <mxCell id="oIaSWCsyc41wVR5_9SYv-145" value="文件上传到服务端&lt;br&gt;uploadFileToMinio()" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" edge="1" target="oIaSWCsyc41wVR5_9SYv-143" parent="oIaSWCsyc41wVR5_9SYv-99" source="oIaSWCsyc41wVR5_9SYv-107">
-          <mxGeometry x="0.0021" relative="1" as="geometry">
+          <mxGeometry x="0.0034" relative="1" as="geometry">
             <mxPoint x="150" y="880" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="180" y="870" />
@@ -111,17 +111,6 @@
             <mxPoint x="120" y="490" as="sourcePoint" />
             <mxPoint x="200" y="490" as="targetPoint" />
             <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oIaSWCsyc41wVR5_9SYv-103" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="145" y="580" width="10" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="oIaSWCsyc41wVR5_9SYv-104" value="self call" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="oIaSWCsyc41wVR5_9SYv-103" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="150" y="560" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="180" y="590" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="oIaSWCsyc41wVR5_9SYv-108" value="TcpHandleBLL" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
@@ -269,7 +258,7 @@
           <mxGeometry x="245" y="1075" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oIaSWCsyc41wVR5_9SYv-156" value="文件分块上传（多线程上传）&lt;br&gt;uploadFileByChunk()" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" edge="1" parent="1" target="oIaSWCsyc41wVR5_9SYv-155">
-          <mxGeometry x="0.0015" relative="1" as="geometry">
+          <mxGeometry x="0.0014" y="25" relative="1" as="geometry">
             <mxPoint x="325" y="1572" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="495" y="1572" />

@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-05T12:35:10.576Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="TtuOKgKicwSYxKMKg-vi" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-05T16:49:57.242Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="W4-DppekSHlLd3kSAr-f" version="22.1.5" type="github">
   <diagram name="第 1 页" id="ISHrla_YPLOknCXL0Kuk">
-    <mxGraphModel dx="2022" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1622" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -264,7 +264,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JdRyD5E2xtzkE8RPLCQu-72" value="更新文件上传状态&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;UpdateFileStatus()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
-          <mxGeometry x="0.0006" width="80" relative="1" as="geometry">
+          <mxGeometry x="0.001" width="80" relative="1" as="geometry">
             <mxPoint x="320" y="1409" as="sourcePoint" />
             <mxPoint x="1177.5" y="1409" as="targetPoint" />
             <mxPoint as="offset" />
@@ -484,6 +484,12 @@
         </mxCell>
         <mxCell id="JdRyD5E2xtzkE8RPLCQu-136" value="ScheduledService" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="-150" y="1860" width="100" height="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="JdRyD5E2xtzkE8RPLCQu-137" value="更新文件状态&lt;br&gt;UpdateFileStatus（）" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" source="JdRyD5E2xtzkE8RPLCQu-130" target="JdRyD5E2xtzkE8RPLCQu-127">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="660" y="2410" as="sourcePoint" />
+            <mxPoint x="740" y="2410" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-11T11:53:24.081Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="yQMLAJOUeXT9TIJgp700" version="22.1.7" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-12-11T12:01:25.451Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="OUC5TEr5MoKfeFhuJ27H" version="22.1.7" type="github" pages="4">
   <diagram name="客户端" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -1497,7 +1497,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ijrxdC7IUcDOOv6l4YaE-16" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="326.5" y="2517" width="911" height="170" as="geometry" />
+          <mxGeometry x="326.5" y="2517" width="873.5" height="170" as="geometry" />
         </mxCell>
         <mxCell id="ijrxdC7IUcDOOv6l4YaE-17" value="大文件所有&lt;br&gt;切片文件上传完成" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="319" y="2577" width="120" height="40" as="geometry" />
@@ -1552,7 +1552,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ijrxdC7IUcDOOv6l4YaE-46" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="324" y="2727" width="866" height="150" as="geometry" />
+          <mxGeometry x="324" y="2727" width="896" height="150" as="geometry" />
         </mxCell>
         <mxCell id="ijrxdC7IUcDOOv6l4YaE-47" value="大文件上传完成&lt;br&gt;或小文件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="314" y="2772" width="110" height="40" as="geometry" />

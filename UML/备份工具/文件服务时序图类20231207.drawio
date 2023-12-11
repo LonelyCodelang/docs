@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-11T11:52:24.298Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="k4IaJQkSno0ueLOy0kGo" version="22.1.7" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-12-11T11:53:24.081Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="yQMLAJOUeXT9TIJgp700" version="22.1.7" type="github" pages="4">
   <diagram name="客户端" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -1557,7 +1557,7 @@
         <mxCell id="ijrxdC7IUcDOOv6l4YaE-47" value="大文件上传完成&lt;br&gt;或小文件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="314" y="2772" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ijrxdC7IUcDOOv6l4YaE-48" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=1;exitY=0.878;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ijrxdC7IUcDOOv6l4YaE-5" target="ijrxdC7IUcDOOv6l4YaE-49">
+        <mxCell id="ijrxdC7IUcDOOv6l4YaE-48" value="移除文件上传状态Key&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;RemoveUploadingKey()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=1;exitY=0.878;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ijrxdC7IUcDOOv6l4YaE-5" target="ijrxdC7IUcDOOv6l4YaE-49">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="520" y="2657" as="sourcePoint" />
             <mxPoint x="600" y="2657" as="targetPoint" />

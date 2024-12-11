@@ -1,11 +1,128 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.4">
   <diagram name="第 1 页" id="VRAyefaOYWG0ZOKPSktA">
-    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="1928" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="alZPwjIxcubzBg9DuEkw-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="20" width="630" height="640" as="geometry" />
+        <mxCell id="alZPwjIxcubzBg9DuEkw-1" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="-100" width="940" height="840" as="geometry" />
+        </mxCell>
+        <mxCell id="LtjLclCA32T5hcb9gz5Z-1" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="618" width="890" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="LtjLclCA32T5hcb9gz5Z-2" value="基础层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="150" y="625" width="30" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="LtjLclCA32T5hcb9gz5Z-3" value="操作系统" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="200" y="647" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="LtjLclCA32T5hcb9gz5Z-4" value="数据库" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="320" y="647" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="LtjLclCA32T5hcb9gz5Z-5" value="GIS软件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="440" y="647" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="LtjLclCA32T5hcb9gz5Z-6" value="中间件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="576" y="647" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="LtjLclCA32T5hcb9gz5Z-7" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="310" width="880" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="LtjLclCA32T5hcb9gz5Z-8" value="数据层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="150" y="410" width="30" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="LtjLclCA32T5hcb9gz5Z-10" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="340" width="330" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="LtjLclCA32T5hcb9gz5Z-11" value="行政区界限" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="230" y="391" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LtjLclCA32T5hcb9gz5Z-12" value="&lt;div&gt;国有建设用地基&lt;/div&gt;&lt;div&gt;准地价图层数据&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="370" y="391" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LtjLclCA32T5hcb9gz5Z-13" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;div&gt;集体建设用地基&lt;/div&gt;&lt;div&gt;准地价图层数据&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="370" y="460" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LtjLclCA32T5hcb9gz5Z-14" value="农用地基准地价&#xa;图层数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="230" y="460" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LtjLclCA32T5hcb9gz5Z-15" value="&lt;div&gt;划拨建设用地基&lt;/div&gt;&lt;div&gt;准地价图层数据&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="230" y="532.5" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LtjLclCA32T5hcb9gz5Z-16" value="标定地价" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="370" y="532.5" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LtjLclCA32T5hcb9gz5Z-17" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="340" width="340" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="LtjLclCA32T5hcb9gz5Z-18" value="国有建设用地基准地价" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="640" y="391" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LtjLclCA32T5hcb9gz5Z-19" value="国有建设用地基准地价" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="770" y="391" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LtjLclCA32T5hcb9gz5Z-20" value="集体建设用地基准地价" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="640" y="460" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LtjLclCA32T5hcb9gz5Z-21" value="划拨国有建设用地基准地价" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="770" y="460" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LtjLclCA32T5hcb9gz5Z-22" value="国有建设用地标定地价" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="640" y="530" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LtjLclCA32T5hcb9gz5Z-24" value="业务数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="770" y="530" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LtjLclCA32T5hcb9gz5Z-25" value="公众版" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="310" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LtjLclCA32T5hcb9gz5Z-26" value="政务版" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="750" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LtjLclCA32T5hcb9gz5Z-27" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="182" width="880" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="LtjLclCA32T5hcb9gz5Z-28" value="应用&lt;span style=&quot;background-color: initial;&quot;&gt;支&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;撑层&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="154" y="197" width="50" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="LtjLclCA32T5hcb9gz5Z-30" value="用户管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="211" y="222.5" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="LtjLclCA32T5hcb9gz5Z-31" value="权限管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="355" y="222.5" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="LtjLclCA32T5hcb9gz5Z-32" value="日志管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="515" y="222.5" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="LtjLclCA32T5hcb9gz5Z-33" value="省统一身份认证平台" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="655" y="222.5" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="LtjLclCA32T5hcb9gz5Z-34" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="11" width="880" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="LtjLclCA32T5hcb9gz5Z-35" value="应用服务层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="157.5" y="45" width="42.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="LtjLclCA32T5hcb9gz5Z-36" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="220" y="50" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LtjLclCA32T5hcb9gz5Z-37" value="公众版-公示地价&lt;br style=&quot;font-size: 14px;&quot;&gt;查询系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="225" y="75" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LtjLclCA32T5hcb9gz5Z-38" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="467" y="49" width="174" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LtjLclCA32T5hcb9gz5Z-39" value="政务版-公示地价查询&lt;br style=&quot;font-size: 14px;&quot;&gt;和计算系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="467.5" y="74" width="177" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LtjLclCA32T5hcb9gz5Z-40" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="-90" width="880" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="LtjLclCA32T5hcb9gz5Z-41" value="用户访问层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="158.75" y="-83" width="40" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="LtjLclCA32T5hcb9gz5Z-43" value="PC网页端" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="211" y="-65.5" width="779" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

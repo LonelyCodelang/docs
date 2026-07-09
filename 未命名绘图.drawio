@@ -1,9 +1,174 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" version="29.6.3">
-  <diagram name="第 1 页" id="myq9FQxG1G5IBV38De6Q">
-    <mxGraphModel>
+  <diagram name="系统改造后数据架构图" id="myq9FQxG1G5IBV38De6Q">
+    <mxGraphModel dx="2076" dy="1091" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="D5DBQRH6yJbnV-pXtUTo-1" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=28;fontStyle=1;fontColor=#1f2a44;" value="数据架构图" vertex="1">
+          <mxGeometry height="40" width="800" x="350" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="D5DBQRH6yJbnV-pXtUTo-2" parent="1" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;fillColor=#1597a8;strokeColor=#1597a8;fontColor=#ffffff;fontSize=24;fontStyle=1;" value="数据应用层" vertex="1">
+          <mxGeometry height="120" width="220" x="20" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D5DBQRH6yJbnV-pXtUTo-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d9f3f2;strokeColor=#1597a8;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="150" width="1180" x="260" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="D5DBQRH6yJbnV-pXtUTo-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1597a8;strokeColor=#0d7584;fontColor=#ffffff;fontSize=18;fontStyle=1;" value="政务端业务应用" vertex="1">
+          <mxGeometry height="50" width="150" x="300" y="95" as="geometry" />
+        </mxCell>
+        <mxCell id="D5DBQRH6yJbnV-pXtUTo-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1597a8;strokeColor=#0d7584;fontColor=#ffffff;fontSize=18;fontStyle=1;" value="公众端查询入口" vertex="1">
+          <mxGeometry height="50" width="150" x="500" y="95" as="geometry" />
+        </mxCell>
+        <mxCell id="D5DBQRH6yJbnV-pXtUTo-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1597a8;strokeColor=#0d7584;fontColor=#ffffff;fontSize=18;fontStyle=1;" value="公示地价应用" vertex="1">
+          <mxGeometry height="50" width="150" x="700" y="95" as="geometry" />
+        </mxCell>
+        <mxCell id="D5DBQRH6yJbnV-pXtUTo-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1597a8;strokeColor=#0d7584;fontColor=#ffffff;fontSize=18;fontStyle=1;" value="改造地价计收应用" vertex="1">
+          <mxGeometry height="50" width="170" x="900" y="95" as="geometry" />
+        </mxCell>
+        <mxCell id="D5DBQRH6yJbnV-pXtUTo-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1597a8;strokeColor=#0d7584;fontColor=#ffffff;fontSize=18;fontStyle=1;" value="城市更新专题应用" vertex="1">
+          <mxGeometry height="50" width="180" x="1130" y="95" as="geometry" />
+        </mxCell>
+        <mxCell id="D5DBQRH6yJbnV-pXtUTo-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1597a8;strokeColor=#0d7584;fontColor=#ffffff;fontSize=18;fontStyle=1;" value="地图模块" vertex="1">
+          <mxGeometry height="45" width="150" x="360" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="D5DBQRH6yJbnV-pXtUTo-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1597a8;strokeColor=#0d7584;fontColor=#ffffff;fontSize=18;fontStyle=1;" value="辅助决策" vertex="1">
+          <mxGeometry height="45" width="150" x="600" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="D5DBQRH6yJbnV-pXtUTo-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1597a8;strokeColor=#0d7584;fontColor=#ffffff;fontSize=18;fontStyle=1;" value="用户权限 / 系统设置" vertex="1">
+          <mxGeometry height="45" width="190" x="840" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="D5DBQRH6yJbnV-pXtUTo-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1597a8;strokeColor=#0d7584;fontColor=#ffffff;fontSize=18;fontStyle=1;" value="国密安全改造" vertex="1">
+          <mxGeometry height="45" width="160" x="1120" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="D5DBQRH6yJbnV-pXtUTo-13" parent="1" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;fillColor=#ff9f2d;strokeColor=#ff9f2d;fontColor=#ffffff;fontSize=24;fontStyle=1;" value="数据服务层" vertex="1">
+          <mxGeometry height="120" width="220" x="20" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="D5DBQRH6yJbnV-pXtUTo-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff0dc;strokeColor=#ff9f2d;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="155" width="1180" x="260" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="D5DBQRH6yJbnV-pXtUTo-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ff9f2d;strokeColor=#e48418;fontColor=#ffffff;fontSize=17;fontStyle=1;" value="国土空间基础信息平台数据服务" vertex="1">
+          <mxGeometry height="50" width="210" x="295" y="275" as="geometry" />
+        </mxCell>
+        <mxCell id="D5DBQRH6yJbnV-pXtUTo-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ff9f2d;strokeColor=#e48418;fontColor=#ffffff;fontSize=17;fontStyle=1;" value="GeoScene 图层服务" vertex="1">
+          <mxGeometry height="50" width="170" x="545" y="275" as="geometry" />
+        </mxCell>
+        <mxCell id="D5DBQRH6yJbnV-pXtUTo-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ff9f2d;strokeColor=#e48418;fontColor=#ffffff;fontSize=17;fontStyle=1;" value="统一认证" vertex="1">
+          <mxGeometry height="50" width="170" x="755" y="275" as="geometry" />
+        </mxCell>
+        <mxCell id="D5DBQRH6yJbnV-pXtUTo-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ff9f2d;strokeColor=#e48418;fontColor=#ffffff;fontSize=17;fontStyle=1;" value="业务 API / 数据接口" vertex="1">
+          <mxGeometry height="50" width="170" x="965" y="275" as="geometry" />
+        </mxCell>
+        <mxCell id="D5DBQRH6yJbnV-pXtUTo-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ff9f2d;strokeColor=#e48418;fontColor=#ffffff;fontSize=17;fontStyle=1;" value="附件服务" vertex="1">
+          <mxGeometry height="50" width="190" x="1175" y="275" as="geometry" />
+        </mxCell>
+        <mxCell id="D5DBQRH6yJbnV-pXtUTo-20" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=18;fontStyle=1;fontColor=#e48418;" value="统一服务开放：查询、核算、测算、图层调用、权限校验、日志审计、国密加密传输" vertex="1">
+          <mxGeometry height="40" width="860" x="420" y="345" as="geometry" />
+        </mxCell>
+        <mxCell id="D5DBQRH6yJbnV-pXtUTo-21" parent="1" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;fillColor=#ee858f;strokeColor=#ee858f;fontColor=#ffffff;fontSize=24;fontStyle=1;" value="数据管理层" vertex="1">
+          <mxGeometry height="120" width="220" x="20" y="475" as="geometry" />
+        </mxCell>
+        <mxCell id="D5DBQRH6yJbnV-pXtUTo-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff1f2;strokeColor=#ee858f;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="165" width="1180" x="260" y="455" as="geometry" />
+        </mxCell>
+        <mxCell id="D5DBQRH6yJbnV-pXtUTo-23" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=18;fillColor=#ee858f;strokeColor=#cf6672;fontColor=#444444;fontSize=16;fontStyle=1;" value="项目目标业务库&#xa;人大金仓适配" vertex="1">
+          <mxGeometry height="85" width="170" x="330" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="D5DBQRH6yJbnV-pXtUTo-24" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=18;fillColor=#ee858f;strokeColor=#cf6672;fontColor=#444444;fontSize=16;fontStyle=1;" value="市国土空间基础信息平台&#xa;基础 / 空间 / 专题数据" vertex="1">
+          <mxGeometry height="85" width="210" x="610" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="D5DBQRH6yJbnV-pXtUTo-25" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=18;fillColor=#ee858f;strokeColor=#cf6672;fontColor=#444444;fontSize=16;fontStyle=1;" value="专题空间图层库&#xa;地价 / 区片 / 容积率 / 城更" vertex="1">
+          <mxGeometry height="85" width="220" x="930" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="D5DBQRH6yJbnV-pXtUTo-26" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=18;fillColor=#ee858f;strokeColor=#cf6672;fontColor=#444444;fontSize=16;fontStyle=1;" value="云专区对象存储&#xa;附件 / 报告 / 模板" vertex="1">
+          <mxGeometry height="85" width="160" x="1240" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="D5DBQRH6yJbnV-pXtUTo-27" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=16;fontStyle=1;fontColor=#b95560;" value="统一数据管理体系：业务台账、历史成果、配置参数、权限角色、日志审计、敏感数据国密加密存储" vertex="1">
+          <mxGeometry height="35" width="890" x="390" y="465" as="geometry" />
+        </mxCell>
+        <mxCell id="D5DBQRH6yJbnV-pXtUTo-28" parent="1" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;fillColor=#12aee2;strokeColor=#12aee2;fontColor=#ffffff;fontSize=24;fontStyle=1;" value="数据治理层" vertex="1">
+          <mxGeometry height="120" width="220" x="20" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="D5DBQRH6yJbnV-pXtUTo-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e8f8fd;strokeColor=#12aee2;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="150" width="1180" x="260" y="655" as="geometry" />
+        </mxCell>
+        <mxCell id="D5DBQRH6yJbnV-pXtUTo-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#12aee2;strokeColor=#008fc1;fontColor=#ffffff;fontSize=18;fontStyle=1;" value="数据治理与入库加工（抽取、转换、加载、质检、核验、同步、地图服务重发布）" vertex="1">
+          <mxGeometry height="55" width="1100" x="300" y="685" as="geometry" />
+        </mxCell>
+        <mxCell id="D5DBQRH6yJbnV-pXtUTo-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#12aee2;fontColor=#075f7b;fontSize=15;fontStyle=1;" value="中间库转换&#xa;SQLite → 人大金仓" vertex="1">
+          <mxGeometry height="40" width="180" x="360" y="755" as="geometry" />
+        </mxCell>
+        <mxCell id="D5DBQRH6yJbnV-pXtUTo-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#12aee2;fontColor=#075f7b;fontSize=15;fontStyle=1;" value="图层治理&#xa;坐标统一 / 字段映射" vertex="1">
+          <mxGeometry height="40" width="210" x="620" y="755" as="geometry" />
+        </mxCell>
+        <mxCell id="D5DBQRH6yJbnV-pXtUTo-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#12aee2;fontColor=#075f7b;fontSize=15;fontStyle=1;" value="质量校验&#xa;完整性 / 一致性 / 图属" vertex="1">
+          <mxGeometry height="40" width="210" x="910" y="755" as="geometry" />
+        </mxCell>
+        <mxCell id="D5DBQRH6yJbnV-pXtUTo-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#12aee2;fontColor=#075f7b;fontSize=15;fontStyle=1;" value="安全治理&#xa;SM2 / SM4 / 密钥管理" vertex="1">
+          <mxGeometry height="40" width="180" x="1200" y="755" as="geometry" />
+        </mxCell>
+        <mxCell id="D5DBQRH6yJbnV-pXtUTo-35" parent="1" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;fillColor=#08bd5b;strokeColor=#08bd5b;fontColor=#ffffff;fontSize=24;fontStyle=1;" value="数据源层" vertex="1">
+          <mxGeometry height="120" width="220" x="20" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="D5DBQRH6yJbnV-pXtUTo-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dcf8e8;strokeColor=#08bd5b;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="190" width="1180" x="260" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="D5DBQRH6yJbnV-pXtUTo-37" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=16;fillColor=#08bd5b;strokeColor=#079b4c;fontColor=#ffffff;fontSize=14;fontStyle=1;" value="城市更新专题应用系统&#xa;历史业务数据" vertex="1">
+          <mxGeometry height="70" width="150" x="310" y="905" as="geometry" />
+        </mxCell>
+        <mxCell id="D5DBQRH6yJbnV-pXtUTo-38" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=16;fillColor=#08bd5b;strokeColor=#079b4c;fontColor=#ffffff;fontSize=14;fontStyle=1;" value="公示地价系统&#xa;376 张库表" vertex="1">
+          <mxGeometry height="70" width="140" x="490" y="905" as="geometry" />
+        </mxCell>
+        <mxCell id="D5DBQRH6yJbnV-pXtUTo-39" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=16;fillColor=#08bd5b;strokeColor=#079b4c;fontColor=#ffffff;fontSize=14;fontStyle=1;" value="三旧改造地价计收系统&#xa;394 张库表" vertex="1">
+          <mxGeometry height="70" width="170" x="660" y="905" as="geometry" />
+        </mxCell>
+        <mxCell id="D5DBQRH6yJbnV-pXtUTo-40" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=16;fillColor=#08bd5b;strokeColor=#079b4c;fontColor=#ffffff;fontSize=14;fontStyle=1;" value="历史成果文件&#xa;附件 / 报告 / 模板" vertex="1">
+          <mxGeometry height="70" width="160" x="870" y="905" as="geometry" />
+        </mxCell>
+        <mxCell id="D5DBQRH6yJbnV-pXtUTo-41" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=16;fillColor=#08bd5b;strokeColor=#079b4c;fontColor=#ffffff;fontSize=14;fontStyle=1;" value="外部身份组织数据&#xa;粤政易 / 组织架构" vertex="1">
+          <mxGeometry height="70" width="160" x="1070" y="905" as="geometry" />
+        </mxCell>
+        <mxCell id="D5DBQRH6yJbnV-pXtUTo-42" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=16;fillColor=#08bd5b;strokeColor=#079b4c;fontColor=#ffffff;fontSize=14;fontStyle=1;" value="GeoScene / 空间服务&#xa;外部图层引用" vertex="1">
+          <mxGeometry height="70" width="150" x="1260" y="905" as="geometry" />
+        </mxCell>
+        <mxCell id="D5DBQRH6yJbnV-pXtUTo-43" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=16;fontStyle=1;fontColor=#079b4c;" value="历史数据迁移来源（改造后不再分散登录 / 分散管理）" vertex="1">
+          <mxGeometry height="30" width="660" x="320" y="990" as="geometry" />
+        </mxCell>
+        <mxCell id="D5DBQRH6yJbnV-pXtUTo-44" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=16;fontStyle=1;fontColor=#079b4c;" value="外部服务持续对接" vertex="1">
+          <mxGeometry height="30" width="350" x="1060" y="990" as="geometry" />
+        </mxCell>
+        <mxCell id="D5DBQRH6yJbnV-pXtUTo-45" parent="1" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;fillColor=#08bd5b;strokeColor=#08bd5b;" value="" vertex="1">
+          <mxGeometry height="60" width="55" x="430" y="805" as="geometry" />
+        </mxCell>
+        <mxCell id="D5DBQRH6yJbnV-pXtUTo-46" parent="1" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;fillColor=#08bd5b;strokeColor=#08bd5b;" value="" vertex="1">
+          <mxGeometry height="60" width="55" x="750" y="805" as="geometry" />
+        </mxCell>
+        <mxCell id="D5DBQRH6yJbnV-pXtUTo-47" parent="1" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;fillColor=#08bd5b;strokeColor=#08bd5b;" value="" vertex="1">
+          <mxGeometry height="60" width="55" x="1110" y="805" as="geometry" />
+        </mxCell>
+        <mxCell id="D5DBQRH6yJbnV-pXtUTo-48" parent="1" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;fillColor=#12aee2;strokeColor=#12aee2;" value="" vertex="1">
+          <mxGeometry height="50" width="55" x="430" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="D5DBQRH6yJbnV-pXtUTo-49" parent="1" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;fillColor=#12aee2;strokeColor=#12aee2;" value="" vertex="1">
+          <mxGeometry height="50" width="55" x="770" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="D5DBQRH6yJbnV-pXtUTo-50" parent="1" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;fillColor=#12aee2;strokeColor=#12aee2;" value="" vertex="1">
+          <mxGeometry height="50" width="55" x="1130" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="D5DBQRH6yJbnV-pXtUTo-51" parent="1" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;fillColor=#ee858f;strokeColor=#ee858f;" value="" vertex="1">
+          <mxGeometry height="60" width="55" x="430" y="405" as="geometry" />
+        </mxCell>
+        <mxCell id="D5DBQRH6yJbnV-pXtUTo-52" parent="1" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;fillColor=#ee858f;strokeColor=#ee858f;" value="" vertex="1">
+          <mxGeometry height="60" width="55" x="790" y="405" as="geometry" />
+        </mxCell>
+        <mxCell id="D5DBQRH6yJbnV-pXtUTo-53" parent="1" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;fillColor=#ee858f;strokeColor=#ee858f;" value="" vertex="1">
+          <mxGeometry height="60" width="55" x="1150" y="405" as="geometry" />
+        </mxCell>
+        <mxCell id="D5DBQRH6yJbnV-pXtUTo-54" parent="1" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;fillColor=#ff9f2d;strokeColor=#ff9f2d;" value="" vertex="1">
+          <mxGeometry height="45" width="50" x="565" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="D5DBQRH6yJbnV-pXtUTo-55" parent="1" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;fillColor=#ff9f2d;strokeColor=#ff9f2d;" value="" vertex="1">
+          <mxGeometry height="45" width="50" x="965" y="220" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
